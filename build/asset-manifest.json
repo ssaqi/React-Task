@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2177084.css",
+    "main.js": "/static/js/main.a71af92d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner.png": "/static/media/banner.4400cb750cd9b37dbac3.png",
+    "static/media/img4.png": "/static/media/img4.b41cd68d328c06dc537b.png",
+    "static/media/img1.jpg": "/static/media/img1.608c6105b48be1f54d83.jpg",
+    "static/media/media.JPG": "/static/media/media.9b35070245b5c43e4b16.JPG",
+    "static/media/Laser-Clinic-Logo.png": "/static/media/Laser-Clinic-Logo.a27899ca6069830ade16.png",
+    "index.html": "/index.html",
+    "main.d2177084.css.map": "/static/css/main.d2177084.css.map",
+    "main.a71af92d.js.map": "/static/js/main.a71af92d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2177084.css",
+    "static/js/main.a71af92d.js"
+  ]
+}

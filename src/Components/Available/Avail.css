@@ -1,0 +1,24 @@
+button{
+
+    border: none;
+}
+
+.btnn{
+
+        margin-top: "30%";
+        left:"280px";
+        position:"absolute"; 
+}
+
+.img{
+
+    width: 120px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .img{
+      width: 40px;
+
+    }
+  }
